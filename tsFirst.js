@@ -1,3 +1,3 @@
 "use strict";
-var x = "hello";
-var y = 12;
+var x = "Hello Elvis";
+var y = 15;
